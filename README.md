@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshay-Acharya1
-- 👀 I’m interested in App development
+- 👀 I’m interested in Automationn Tester
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on Android projects
 - 📫 How to reach me ...
