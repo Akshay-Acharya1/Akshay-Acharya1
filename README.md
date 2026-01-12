@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Akshay-Acharya1
-- 👀 I’m interested in Automationn Tester
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on Android projects
+- 👀 I’m looling for Automationn & Manual Role
+- 🌱 I have experience in validating Web and mobile applications
+- 💞️ Hand on experience in Selenium WebDriver, TestNG, java, Maven, Jenkins, Postman, Jira, SQL, Git and GitHub
 - 📫 How to reach me ...
 
 <!---
