@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-Acharya1
 - 👀 I’m looling for Automationn & Manual Role
-- 🌱 I have experience in validating Web and mobile applications
+- 🌱 I've experience in validating Web and mobile applications
 - 💞️ Hand on experience in Selenium WebDriver, TestNG, java, Maven, Jenkins, Postman, Jira, SQL, Git and GitHub
 - 📫 How to reach me ...
 
